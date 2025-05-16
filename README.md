@@ -45,9 +45,9 @@ Aegis is a comprehensive video preprocessing pipeline for deepfake detection. It
     <td><strong>Enhanced Face</strong></td>
   </tr>
   <tr>
-    <td><img src="/content/all_extracted_frames/000_003/frame_10.jpg" width="200"/></td>
-    <td><img src="/content/cropped_faces/000_003/frame_10_face0.jpg" width="200"/></td>
-    <td><img src="/content/enhanced_faces/000_003/frame_10_enhanced.jpg" width="200"/></td>
+    <td><img src="all_extracted_frames/003_000/frame_10.jpg" width="200"/></td>
+    <td><img src="cropped_faces/003_000/frame_10_face0.jpg" width="200"/></td>
+    <td><img src="enhanced_faces/003_000/frame_10_enhanced.jpg" width="200"/></td>
   </tr>
 </table>
 
